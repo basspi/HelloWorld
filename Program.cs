@@ -16,7 +16,7 @@ namespace HelloWorld
             Console.WriteLine("Luna is Mine2");
             Console.WriteLine("Earth on LR");
             Console.WriteLine("W on Github");
-            Console.WriteLine("Luna on Github");            
+            Console.WriteLine("Luna on Github2");            
         }
     }
 }
